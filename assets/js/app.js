@@ -1,4 +1,3 @@
-SameSite=None; Secure
 
 // Header
 
