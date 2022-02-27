@@ -301,7 +301,7 @@ $(function () {
   let bodyElement = $(`body`);
   bodyElement.prepend(header);
   bodyElement.append(footer);
-  bodyElement.append(upArrow);
+  //bodyElement.append(upArrow);
   $("#btnScrollToTop").css("visibility", "hidden");
 
   //toggler hamburger functions
