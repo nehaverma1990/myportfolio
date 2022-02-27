@@ -1,6 +1,5 @@
 
-//"use strict";
-//SameSite=None;
+"use strict";
 
 // Header
 
